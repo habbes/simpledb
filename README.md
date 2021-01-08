@@ -7,7 +7,7 @@ Simple key-value database. For learning purposes. Based on ideas from the first 
 To build, run:
 ```
 make
-``
+```
 
 To run:
 
